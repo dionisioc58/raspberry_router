@@ -1,0 +1,2 @@
+nome_usuario	Cleartext-Password := "senha"	 # Nome: Usuario da Silva
+outro_usuario	Cleartext-Password := "senha2"	 # Nome: Outro Usuario da Silva
